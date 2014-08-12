@@ -32,3 +32,6 @@
 174.65.21.21 - - [12/Aug/2014:16:35:32 -0400] "GET / HTTP/1.1" 401 642 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
 174.65.21.21 - tomp [12/Aug/2014:17:02:22 -0400] "GET / HTTP/1.1" 304 163 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
 192.30.252.45 - - [12/Aug/2014:17:02:59 -0400] "POST /deploy.php HTTP/1.1" 401 586 "-" "GitHub-Hookshot/eb61320"
+192.30.252.43 - - [12/Aug/2014:17:07:43 -0400] "POST /deploy.php HTTP/1.1" 401 586 "-" "GitHub-Hookshot/eb61320"
+174.65.21.21 - tomp [12/Aug/2014:17:08:37 -0400] "GET /deploy.php HTTP/1.1" 200 820 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+174.65.21.21 - tomp [12/Aug/2014:17:09:02 -0400] "GET /deploy.php HTTP/1.1" 200 829 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
