@@ -1,0 +1,2 @@
+[Tue Aug 12 15:39:26.675123 2014] [:error] [pid 29159] [client 174.65.21.21:24236] script '/var/www/hw1/index.php' not found or unable to stat
+[Tue Aug 12 15:58:42.975930 2014] [access_compat:error] [pid 29439] [client 174.65.21.21:24598] AH01797: client denied by server configuration: /var/www/hw1/index.html
